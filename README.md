@@ -1,0 +1,2 @@
+# autoinstall
+auto install package
